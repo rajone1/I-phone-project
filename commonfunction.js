@@ -39,3 +39,7 @@ function functionforsubtotal() {
 
   settexelementbyid("final-total", finalAccount);
 }
+
+// $(function () {
+//   $("#includeHtml").load("./pin29-6/index.html");
+// });

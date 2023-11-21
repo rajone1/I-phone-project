@@ -54,3 +54,11 @@ document
     //its comes commonfunction
     functionforsubtotal();
   });
+
+// add extra folder\\
+
+if (email === "r@gmail" && password == "se") {
+  window.location.href = "bank.html";
+} else {
+  alert("insert email and password");
+}
